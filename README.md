@@ -4,8 +4,8 @@
 [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/overview)
 
 ## 项目目标
-本方案旨在复现该竞赛的 top1 方案，以此练习机器学习在多标签二分类问题中的应用，加深对文本分类任务的理解和实践能力。
-
+本方案旨在复现该竞赛的 金牌方案，以此练习机器学习在多标签二分类问题中的应用，加深对文本分类任务的理解和实践能力。
+原方案链接：[Classifying multi-label comments (0.9741 lb)]([https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/overview](https://www.kaggle.com/code/rhodiumbeng/classifying-multi-label-comments-0-9741-lb?scriptVersionId=2284297))
 ## 数据集描述
 你会得到大量维基百科评论，这些评论已经由人工评级者针对有毒行为进行了标注。毒性类型如下：
 - `toxic`：一般性的有毒评论
